@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: "Week6"),
+      home: const MyHomePage(title: "프로토타입의 야무진 6주차 과제"),
     );
   }
 }
